@@ -5,6 +5,8 @@ import Greetings from './Greetings';
 import Counter from './Counter';
 import Alert from './Alert';
 import Users from './Users';
+import Fun from './fun';
+import Todo from './Todo';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
      <Counter/>
      <Alert/>
      <Users/>
+     <Fun/>
+     <Todo/>
     </div>
   );
 }
